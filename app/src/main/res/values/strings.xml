@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RaazNamehEncryption</string>
+    <string name="a_name">Alice</string>
+    <string name="b_name">Bob</string>
+    <string name="GenKeys_button">Generate Keys</string>
+    <string name="Encrypt_button">Encrypt</string>
+    <string name="Decrypt_button">Decrypt</string>
+    <string name="pub_textView_default">Public Key</string>
+    <string name="prv_textView_default">Private Key</string>
+    <string name="cipher_textView_default">Encrypted Message</string>
+    <string name="decrypted_textView_default">Decrypted Message</string>
+    <string name="plain_text_default">Your Message…</string>
+</resources>
